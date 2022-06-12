@@ -1,7 +1,7 @@
 
 pip install -r requirements.txt
 
-tytuł \\
+tytuł \n
 legendę \\
 podpisane etykiety obu osi \\
 siatkę na wykres. \\
