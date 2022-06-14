@@ -18,6 +18,10 @@ pip install -r requirements.txt
 
 - Linie krzywych powinny mieć różne style i różne kolory inne niż domyślne.
 
+-group by
+    - data.value_counts(subset='kolumna')
+
+
 
 >plt.annotate("55555", xy=(1, 2))
 
